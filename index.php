@@ -27,6 +27,8 @@
     <!-- Puzzle Game -->
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
+    <!--Custom style for the puzzle -->
+    <link rel="stylesheet" href="css/custom.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -130,6 +132,43 @@
                 </div>
             </div>
             <div class="row">
+
+<?php
+$file = fopen('monitoreo-de-aves-2014.csv', 'r');
+$aves = array();
+$i = 0;
+while (($line = fgetcsv($file)) !== FALSE) {
+  $aves[] = $line;
+  $i++;
+  if ($i < 10) {
+    $nombre_cientifico = isset($line[3]) ? $line[3] : 'fd';
+    $nombre_comun = isset($line[4]) ? $line[4] : '';
+    $class_black_white = 'img-black-white';
+    $data_html = <<<HTML
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal$i" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="agency/img/portfolio/roundicons.png" class="img-responsive $class_black_white" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>$nombre_cientifico</h4>
+                        <p class="text-muted">$nombre_cientifico</p>
+                    </div>
+                </div>
+HTML;
+    print $data_html;
+  }
+}
+fclose($file);
+//~ print_r($aves);
+//~ exit();
+
+?>
+              
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
