@@ -1,0 +1,6 @@
+img.img-black-white {
+  filter: grayscale(100%);
+  filter: url(#greyscale);
+  filter: gray;
+  -webkit-filter: grayscale(1);
+}
