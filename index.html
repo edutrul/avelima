@@ -24,6 +24,9 @@
     <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
+    <!-- Puzzle Game -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -77,54 +80,42 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
     <header>
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Bienvenido al Juego</div>
                 <div class="intro-heading">Descubre las aves del Pantano de Villa!</div>
-                <a href="#services" class="page-scroll btn btn-xl">Descrube!</a>
+                <a href="#services" class="page-scroll btn btn-xl">Descubre!</a>
             </div>
         </div>
     </header>
 
-    <!-- Services Section -->
     <section id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">PUZZLE</h2>
-                    <h3 class="section-subheading text-muted">----</h3>
+                    <h2 class="section-heading">Descubre a la Ave</h2>
+                    <h3 class="section-subheading text-muted">Construye/Descubre el Rompecabeza  </h3>
                 </div>
             </div>
             <div class="row text-center">
+                <div class="col-md-16">
+                      <div id="puzzle"></div>
+                </div>
+                <div id="toolbar" class="clearfix">
+                    <button class="btn btn-xl" id="shuffle">BARAJEA!</button>
 <!--
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">E-Commerce</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Responsive Design</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
+                    <button id="background">Change Background</button>
+                    <lable>Rows: </lable>
+                    <button id="rows-dec">-</button>
+                    <button id="rows-inc">+</button>
+                    <lable>Cols: </lable>
+                    <button id="cols-dec">-</button>
+                    <button id="cols-inc">+</button>
 -->
-                <h1>HOLA MUNDO PUZZLE</h1>
+                    <span>Steps: <span id="steps">0</span></span>
+                </div>
+                <!-- END OF PUZZLE -->
             </div>
         </div>
     </section>
@@ -223,6 +214,50 @@
                         <p class="text-muted">Website Design</p>
                     </div>
                 </div>
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="agency/img/portfolio/dreams.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dreams</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="agency/img/portfolio/dreams.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dreams</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="agency/img/portfolio/dreams.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dreams</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -660,6 +695,10 @@
     <!-- Custom Theme JavaScript -->
     <script src="agency/js/agency.js"></script>
 
+    <!-- Puzzle Javascript -->
+    <script type="text/javascript" src="js/puzzle.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <!-- END OF PUZZLE -->
 </body>
 
 </html>

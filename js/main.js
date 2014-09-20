@@ -1,10 +1,10 @@
 $(function () {
     var MAX_ROW = 20, MAX_COL = 20;
-
-    var game = $('#puzzle').puzzle({image: 'url(img/gavle.jpg)',
+$('#puzzle').width(668).height(400);
+    var game = $('#puzzle').puzzle({image: 'url(img/ave-cenizo.jpg)',
                                     spacing: 4,
-                                    rows: 4,
-                                    cols: 4});
+                                    rows: 2,
+                                    cols: 2});
 
     click = function () {
         this.steps();
