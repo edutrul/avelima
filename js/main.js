@@ -88,7 +88,7 @@ console.log(game);
           spacing = 4;
         }
         $('a[href="#portfolioModal' + lvl + '"]').trigger('click');
-        
+        $('<h1>Felicidades por descubrir:</h1>').insertBefore('#portfolioModal' + lvl + ' h2');
         game.render({image: 'url(' + dom_image.attr('src') + ')', spacing: spacing});
         game.shuffle();
     }
