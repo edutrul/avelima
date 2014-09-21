@@ -111,15 +111,14 @@
                 </div>
                 <div id="toolbar" class="clearfix">
                     <button class="btn btn-xl" id="shuffle">BARAJEA!</button>
-<!--
-                    <button id="background">Change Background</button>
-                    <lable>Rows: </lable>
+
+                    <lable>Filas: </lable>
                     <button id="rows-dec">-</button>
                     <button id="rows-inc">+</button>
-                    <lable>Cols: </lable>
+                    <lable>Columnas: </lable>
                     <button id="cols-dec">-</button>
                     <button id="cols-inc">+</button>
--->
+
                     <span>Pasos: <span id="steps">0</span></span>
                 </div>
                 <!-- END OF PUZZLE -->
@@ -188,7 +187,7 @@ fclose($file);
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">HISTORIA DE PANTANOS DE VILLA</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Se parte de nuestra Historia.</h3>
                 </div>
             </div>
             <div class="row">
@@ -200,11 +199,13 @@ fclose($file);
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                    <h4>1964</h4>
+                                    <h4 class="subheading">Servicio de Parques</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">El Servicio de Parques nace como el Patronato de Parques Nacionales y Zonales el 20
+
+de Marzo de 1964.</p>
                                 </div>
                             </div>
                         </li>
@@ -214,11 +215,13 @@ fclose($file);
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
+                                    <h4>1969</h4>
+                                    <h4 class="subheading">Decreto de Ley</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">y como Servicio de Parques, propiamente, el 21 de Mayo de 1969, 
+
+por Decreto Ley No 17528</p>
                                 </div>
                             </div>
                         </li>
@@ -228,33 +231,47 @@ fclose($file);
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>1977</h4>
+                                    <h4 class="subheading">SERPAR</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">La Municipalidad Metropolitana de Lima y el Servicio de
+
+Parques de Lima, SERPAR - LIMA, administra, conserva y desarrolla el área natural 
+
+desde 1977.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="agency/img/about/4.jpg" alt="">
+                                <img class="img-circle img-responsive" src="agency/img/about/4.png" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4>1989</h4>
+                                    <h4 class="subheading">Ministerio de Agricultura</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">En 1989 el Ministerio de Agricultura declara 396 hectáreas como zona
+
+reservada para la conservación de la flora y fauna silvestres (Resolución Ministerial 144-
+
+89-DGFF-AG), encargando la administración de la Zona Reservada de los Pantanos de 
+
+Villa al "Patronato de Defensa de los Pantanos de Villa", integrado por entidades 
+
+públicas y privadas, así como por personas naturales o jurídicas interesados en la 
+
+conservación del área.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
+                                <h4>Se Parte
+                                    <br>De la
+                                    <br>Historia</h4>
                             </div>
                         </li>
                     </ul>
