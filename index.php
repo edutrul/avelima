@@ -293,7 +293,7 @@ conservación del área.</p>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="agency/img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
+                        <h4>Alexandra Bellido</h4>
                         <p class="text-muted">Descubrio 200 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -308,7 +308,7 @@ conservación del área.</p>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="agency/img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Larry Parker</h4>
+                        <h4>Eduardo Telaya</h4>
                         <p class="text-muted">Descubrio 180 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
@@ -323,7 +323,7 @@ conservación del área.</p>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="agency/img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
+                        <h4>Walter Rosales</h4>
                         <p class="text-muted">Descubrio 160 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
