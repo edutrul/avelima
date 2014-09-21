@@ -6,8 +6,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
     <meta property="og:og:app_id" content="323924044446462"/>
     <meta property="og:og:title" content="Jugando descubri a esta ave Tambien descubre tu ave!"/>
@@ -271,7 +269,7 @@ fclose($file);
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">RANKING DE DESCUBRIDORES</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Los top top!</h3>
                 </div>
             </div>
             <div class="row">
@@ -279,7 +277,7 @@ fclose($file);
                     <div class="team-member">
                         <img src="agency/img/team/1.jpg" class="img-responsive img-circle" alt="">
                         <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
+                        <p class="text-muted">Descubrio 200 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -294,7 +292,7 @@ fclose($file);
                     <div class="team-member">
                         <img src="agency/img/team/2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
+                        <p class="text-muted">Descubrio 180 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -309,7 +307,7 @@ fclose($file);
                     <div class="team-member">
                         <img src="agency/img/team/3.jpg" class="img-responsive img-circle" alt="">
                         <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
+                        <p class="text-muted">Descubrio 160 AVES!</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -323,7 +321,7 @@ fclose($file);
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">Agradecemos a cada uno de nuestros Descubridores! Felicitaciones!.</p>
                 </div>
             </div>
         </div>
@@ -502,7 +500,10 @@ foreach($aves as $line) {
                             Status Migratorio: $status_migratorio_value<br>
                              <a id="button"
                                 href="http://www.facebook.com/sharer.php?s=100&p[url]=http://avelima.lalotech.com/&p[images][0]=http://avelima.lalotech.com/img/ave-cenizo.jpg&p[title]=Jugando descubri a $nombre_comun Tambien descubre tu ave!&p[summary]=Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA"><img src="agency/img/compartir-facebook.png"></a>
-                            </p>
+                            
+
+                            <a href="https://twitter.com/home?status=Jugando descubri $nombre_comun ave de Lima http://avelima.lalotech.com/ #hackathon2014" ><img src="agency/img/tweet-image.png"></a>
+                            <p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar Ventana</button>
                         </div>
                     </div>

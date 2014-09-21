@@ -62,8 +62,8 @@ console.log(game);
 
     complete = function () {
         timer.end();
-        alert('Total time: ' + timer.totalSeconds() + ' seconds\n'
-              + 'Steps: ' + $('#steps').text());
+        //~ alert('Total time: ' + timer.totalSeconds() + ' seconds\n'
+              //~ + 'Steps: ' + $('#steps').text());
         game.unbind('click', click);
         game.div.css({'background-color': '#222',
                       'border-color': '#222'});
@@ -87,6 +87,8 @@ console.log(game);
         if (new_lvl >= 2 && new_lvl <= 5) {
           spacing = 4;
         }
+        $('a[href="#portfolioModal' + lvl + '"]').trigger('click');
+        
         game.render({image: 'url(' + dom_image.attr('src') + ')', spacing: spacing});
         game.shuffle();
     }
