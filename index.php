@@ -15,8 +15,8 @@
     <meta property="og:og:url" content="http://avelima.lalotech.com/"/>
     <meta property="og:description" content="Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA." />
 
-    
-    <title>AVELIMA - Las Aves de Pantano de Villa</title>
+    <title>Jugando descubri a esta ave Tambien descubre tu ave!</title>
+    <meta name="description" content="Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA.">
 
     <!-- Bootstrap Core CSS -->
     <link href="agency/css/bootstrap.min.css" rel="stylesheet">
