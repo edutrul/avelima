@@ -493,7 +493,9 @@ foreach($aves as $line) {
                             Imagen: $imagen<br>
                             Categoria Amenaza: $categoria_amenaza_value<br>
                             Status Migratorio: $status_migratorio_value<br>
-
+                             <a id="button"
+                                href="http://www.facebook.com/sharer.php?s=100&p[url]=http://avelima.lalotech.com/&p[images][0]=http://avelima.lalotech.com/img/ave-cenizo.jpg&p[title]=Jugando descubri a $nombre_comun Tambien descubre tu ave!&p[summary]=Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA"><img src="agency/img/compartir-facebook.png"></a>
+                            </p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar Ventana</button>
                         </div>
                     </div>
