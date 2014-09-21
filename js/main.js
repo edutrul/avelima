@@ -1,6 +1,6 @@
 $(function () {
     var MAX_ROW = 20, MAX_COL = 20;
-    
+    alert(8);
 
     if (localStorage.getItem('avelima_level') == undefined) {
       localStorage.setItem('avelima_level', 0);
