@@ -419,12 +419,12 @@ foreach($aves as $line) {
     $alto = isset($line[8]) ? $line[8] : '';
     $categoria_amenaza = isset($line[9]) ? $line[9] : '';
     $status_migratorio = isset($line[10]) ? $line[10] : '';
-    $enero = isset($line[11]) ? $line[11] : 0;
-    $febrero = isset($line[12]) ? $line[12] : 0;
-    $marzo = isset($line[13]) ? $line[13] : 0;
-    $abril = isset($line[14]) ? $line[14] : 0;
-    $mayo = isset($line[15]) ? $line[15] : 0;
-    $junio = isset($line[16]) ? $line[16] : 0;
+    $enero = isset($line[11]) && $line[11] != '' ? $line[11] : '0';
+    $febrero = isset($line[12]) && $line[12] != '' ? $line[12] : '0';
+    $marzo = isset($line[13]) && $line[13] != '' ? $line[13] : '0';
+    $abril = isset($line[14]) && $line[14] != '' ? $line[14] : '0';
+    $mayo = isset($line[15]) && $line[15] != '' ? $line[15] : '0';
+    $junio = isset($line[16]) && $line[16] != '' ? $line[16] : '0';
 
     $categoria_amenaza_value = '';
     $status_migratorio_value = '';
@@ -499,12 +499,12 @@ foreach($aves as $line) {
                             Categoria Amenaza: $categoria_amenaza_value<br>
                             Status Migratorio: $status_migratorio_value<br>
                             Viene en:<br>
-                            Enero: $enero Aves<br>
-                            Febrero: $febrero Aves<br>
-                            Marzo: $marzo Aves<br>
-                            Abril: $abril Aves<br>
-                            Mayo: $mayo Aves<br>
-                            Junio: $junio Aves<br>
+                            Enero: $enero Ave(s)<br>
+                            Febrero: $febrero Ave(s)<br>
+                            Marzo: $marzo Ave(s)<br>
+                            Abril: $abril Ave(s)<br>
+                            Mayo: $mayo Ave(s)<br>
+                            Junio: $junio Ave(s)<br>
                              <a id="button"
                                 href="http://www.facebook.com/sharer.php?s=100&p[url]=http://avelima.lalotech.com/&p[images][0]=http://avelima.lalotech.com/img/ave-cenizo.jpg&p[title]=Jugando descubri a $nombre_comun Tambien descubre tu ave!&p[summary]=Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA"><img src="agency/img/compartir-facebook.png"></a>
                             
