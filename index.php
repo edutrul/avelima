@@ -535,7 +535,7 @@ HTML;
     <script type="text/javascript" src="js/puzzle.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
 
-
+<h1>Hola mundo</h1>
     <!-- END OF PUZZLE -->
 </body>
 
