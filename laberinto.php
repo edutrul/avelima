@@ -41,6 +41,22 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- DEPENDENCIES (jQuery, jQuery-UI, plus a custom build of jQueryMobile including only virtual mouse event bindings) --> 
+    <link href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+     <script src="laberinto/js/jquery.mobile.custom.js"></script>
+     
+
+
+    <!-- LABYRINTH PLUGIN (script & style) -->
+    <link href="laberinto/css/jquery.labyrinth.css" rel="stylesheet">
+    <script src="laberinto/js/jquery.labyrinth.js"></script>
+    <script src="js/laberinto.js"></script>
+    <!-- STYLESHEET FOR THIS PARTICULAR EXAMPLE -->
+    <link  rel="stylesheet" href="laberinto/example-css/example.css" type="text/css">
+    <!-- EXAMPLE JAVASCRIPT CODE USING THE PLUGIN --> 
+
 </head>
 
 <body id="page-top" class="index">
@@ -107,7 +123,12 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-16">
-                      <div id="puzzle"></div>
+                  
+                  <!-- MARKUP --> 
+                  <div id="labyrinth1" class="labyrinth">
+                    <img class="labyrinth-image" id="lab1-mouse" src="laberinto/example-images/mouse.jpg">
+                    <img class="labyrinth-image" id="lab1-cheese" src="laberinto/example-images/cheese.jpg">
+                  </div>
                 </div>
                 <div id="toolbar" class="clearfix">
                     <button class="btn btn-xl" id="shuffle">BARAJEA!</button>
@@ -144,7 +165,7 @@ $aves = array();
 $i = 0;
 while (($line = fgetcsv($file)) !== FALSE) {
   $aves[] = $line;
-  if ($i < 58) {
+  if ($i < 10) {
     $nombre_cientifico = isset($line[3]) ? $line[3] : 'fd';
     $nombre_comun = isset($line[4]) ? $line[4] : '';
     $imagen = isset($line[6]) && $line[6] != '' ? $line[6] : 'ave-cenizo.jpg'; 
@@ -419,12 +440,12 @@ foreach($aves as $line) {
     $alto = isset($line[8]) ? $line[8] : '';
     $categoria_amenaza = isset($line[9]) ? $line[9] : '';
     $status_migratorio = isset($line[10]) ? $line[10] : '';
-    $enero = isset($line[11]) ? $line[11] : 0;
-    $febrero = isset($line[12]) ? $line[12] : 0;
-    $marzo = isset($line[13]) ? $line[13] : 0;
-    $abril = isset($line[14]) ? $line[14] : 0;
-    $mayo = isset($line[15]) ? $line[15] : 0;
-    $junio = isset($line[16]) ? $line[16] : 0;
+    $enero = isset($line[11]) ? $line[11] : '';
+    $febrero = isset($line[12]) ? $line[12] : '';
+    $marzo = isset($line[13]) ? $line[13] : '';
+    $abril = isset($line[14]) ? $line[14] : '';
+    $mayo = isset($line[15]) ? $line[15] : '';
+    $junio = isset($line[16]) ? $line[16] : '';
 
     $categoria_amenaza_value = '';
     $status_migratorio_value = '';
@@ -498,13 +519,6 @@ foreach($aves as $line) {
                             Imagen: $imagen<br>
                             Categoria Amenaza: $categoria_amenaza_value<br>
                             Status Migratorio: $status_migratorio_value<br>
-                            Viene en:<br>
-                            Enero: $enero Aves<br>
-                            Febrero: $febrero Aves<br>
-                            Marzo: $marzo Aves<br>
-                            Abril: $abril Aves<br>
-                            Mayo: $mayo Aves<br>
-                            Junio: $junio Aves<br>
                              <a id="button"
                                 href="http://www.facebook.com/sharer.php?s=100&p[url]=http://avelima.lalotech.com/&p[images][0]=http://avelima.lalotech.com/img/ave-cenizo.jpg&p[title]=Jugando descubri a $nombre_comun Tambien descubre tu ave!&p[summary]=Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA"><img src="agency/img/compartir-facebook.png"></a>
                             
