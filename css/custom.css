@@ -4,3 +4,11 @@ img.img-black-white {
   filter: gray;
   -webkit-filter: grayscale(1);
 }
+img.img-custom {
+/*
+  max-height: 400px;
+  max-width: 289px;
+*/
+  width: 400px;
+  height: 289px;
+}

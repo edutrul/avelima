@@ -47,6 +47,15 @@ $('#puzzle').width(668).height(400);
         game.unbind('click', click);
         game.div.css({'background-color': '#222',
                       'border-color': '#222'});
+        console.log(game);
+        console.log(game.image);
+        patron_a = 'url(';
+        patron_b = ')';
+        img_path = game.image;
+        img_path = img_path.replace(patron_a, '');
+        img_path = img_path.replace(patron_b, '');
+        console.log(img_path);
+        $('img[src="' + img_path + '"]').removeClass('img-black-white');
     }
 
     game.bind('shuffle', function () {
