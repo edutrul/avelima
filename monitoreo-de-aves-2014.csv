@@ -1,204 +1,204 @@
-1,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo platypterus,Aguilucho de Ala Ancha,Broad-winged Hawk,buteo-platypterus.jpg,480,480,,MAN,,,,,,
-2,ACCIPITRIFORMES,ACCIPITRIDAE,Geranoaetus melanoleucus,Aguilucho Grande - Aguilucho de Pecho Negro,Black-chested Buzzard-Eagle,,,,,ML,,,,,,
-3,ACCIPITRIFORMES,ACCIPITRIDAE,Geranoaetus polyosoma,Aguilucho comun - Aguilucho Variable,Variable Hawk,,,,,ML,,,,,,
-4,ACCIPITRIFORMES,ACCIPITRIDAE,Buteogallus meridionalis,Gavilán de campo - Gavilán Sabanero,Savanna Hawk,,,,,ML,,,,,,
-5,ACCIPITRIFORMES,ACCIPITRIDAE,Circus cinereus,Gavilán Cenizo,Cinereous Harrier,,,,,ML,,,,,,
-6,ACCIPITRIFORMES,ACCIPITRIDAE,Parabuteo unicinctus,Gavilán Oscuro Acanalado,Harris’s (Bay-winged) Hawk,,,,,R,6,3,3,5,3,5
-7,ACCIPITRIFORMES,PANDIONIDAE,Pandion haliaetus,Águila Pescadora,Osprey,,,,,R,5,,1,,,1
-8,ANSERIFORMES,ANATIDAE,Anas discors,Pato media luna - Pato de Ala Azul,Blue-winged Teal,,,,,MN,,2,,,,
-9,ANSERIFORMES,ANATIDAE,Anas platyrhynchos,Pato Cabeza Verde,Common Mallar,,,,,MN,,,,,,
-10,ANSERIFORMES,ANATIDAE,Anas flavirostris,Pato  Sutro - Pato Barcino,Yellow-billed (Speckled) Teal,,,,,MAN,,,,,,
-11,ANSERIFORMES,ANATIDAE,Anas georgica,Pato Jerga	 Pisacca,Yellow-billed Pintail,,,,,MAN,,,,,,
-12,ANSERIFORMES,ANATIDAE,Anas puna,Pato puna,Puna Teal,,,,,MAN,,,,,,
-13,ANSERIFORMES,ANATIDAE,Chloephaga melanoptera,Huachua	 Huallata,Andean Goose,,,,,MAN,,,,,,
-14,ANSERIFORMES,ANATIDAE,Dendrocygna autumnalis,Pato-silbón de Vientre Negro,Black-bellied Whistling-Duck,,,,,E,,,,,,
-15,ANSERIFORMES,ANATIDAE,Lophonetta specularioides,Pato cordillerano - Pato Crestón,Crested Duck,,,,,MAN,,,,,,
-16,ANSERIFORMES,ANATIDAE,Sarkidiornis melanotos,Pato arrocero - Pato Crestudo,Comb Duck,,,,,ML,,,,,,
-17,ANSERIFORMES,ANATIDAE,Anas bahamensis,Pato Gargantillo,White-cheeked Pintail,,,,,R,61,87,36,19,20,41
-18,ANSERIFORMES,ANATIDAE,Anas cyanoptera,Pato colorado,Cinnamon Teal,,,,,R,39,71,189,53,94,104
-19,ANSERIFORMES,ANATIDAE,Oxyura jamaicensis,Pato rana- Pato Taclón,Ruddy Duck,,,,,R,18,18,27,15,25,19
-20,APODIFORMES,APODIDAE,Chaetura pelagica,Vencejo de chimenea,Chimney Swift,,,,,MN,,,,,,
-21,APODIFORMES,APODIDAE,Aeronautes andecolus,Vencejo andino,Andean Swift,,,,,MAN,,,,,,
-22,APODIFORMES,APODIDAE,Streptoprocne zonaris,Vencejo collar blanco,White-collared Swift,,,,,ML,,,,,,
-23,APODIFORMES,TROCHILIDAE,Rhodopis vesper,Amazilia costeña,Oasis Hummingbird,,,,,ML,,,,,,
-24,APODIFORMES,TROCHILIDAE,Amazilia amazilia,Amazilia costeña,Amazilia Hummingbird,,,,,R,,2,2,4,1,
-25,APODIFORMES,TROCHILIDAE,Myrtis fanny,Picaflor de fany,Purple-collared Woodstar,,,,,R,,,,,,
-26,APODIFORMES,TROCHILIDAE,Thaumastura cora,Picaflor de cora,Peruvian Sheartail,,,,,R,,,,,,
-27,CAPRIMULGIFORMES,CAPRIMULGIDAE,Chordeiles acutipennis,Chotacabras trinador,Lesser Nighthawk,,,,,R,,,,,,
-28,CATHARTIFORMES,CATHARTIDAE,Cathartes aura,Gallinazo Cabeza Roja,Turkey Vulture,,,,,R,,,,50,54,
-29,CATHARTIFORMES,CATHARTIDAE,Coragyps atratus,Gallinazo Cabeza Negra,Black Vulture,,,,,R,329,327,445,367,162,18
-30,CHARADRIIFORMES,BURHINIDAE,Burhinus superciliaris,Huerequeque,Peruvian Thick-knee,,,,,R,,3,,,,
-31,CHARADRIIFORMES,CHARADRIIDAE,Charadrius nivosus,Chorlo Nevado,Snowy Plover,,,,,MN,,,,,,
-32,CHARADRIIFORMES,CHARADRIIDAE,Charadrius semipalmatus,Chorlo semipalmado,Semipalmated Plover,,,,,MN,21,82,5,20,39,1
-33,CHARADRIIFORMES,CHARADRIIDAE,Pluvialis squatarola,Chorlo ártico,Black-bellied Plover,,,,,MN,,,,,,
-34,CHARADRIIFORMES,CHARADRIIDAE,Vanellus cayanus,Avefría pinta,Pied Lapwing,,,,,MN,,,,,,
-35,CHARADRIIFORMES,CHARADRIIDAE,Pluvialis dominica,Chorlo Dorado Americano,American Golden-Plover,,,,,MAN,,,,,1,
-36,CHARADRIIFORMES,CHARADRIIDAE,Charadrius vociferus,Chorlo Doble Collar,Killdeer,,,,,R,9,22,5,45,71,69
-37,CHARADRIIFORMES,HAEMATOPODIDAE,Haematopus ater,Ostrero negro,Blackish Oystercatcher,,,,,MS,,,,,,
-38,CHARADRIIFORMES,HAEMATOPODIDAE,Haematopus palliatus,Ostrero común,American Oystercatcher,,,,,MS,27,17,72,44,60,20
-39,CHARADRIIFORMES,LARIDAE,Chlidonias niger,Gaviotín negro,Black Tern,,,,,MN,,,,,,
-40,CHARADRIIFORMES,LARIDAE,Gelochelidon nilotica,Gaviotín Picogrueso,Gull-billed Tern,,,,,MN,,,,,,
-41,CHARADRIIFORMES,LARIDAE,Leucophaeus atricilla,Gaviota Centroamericana - G. Reidora,Laughing Gull,,,,,MN,,,,,,
-42,CHARADRIIFORMES,LARIDAE,Leucophaeus pipixcan,Gaviota de Franklin,Franklin’s Gull,,,,,MN,21574,10706,6200,531,12,
-43,CHARADRIIFORMES,LARIDAE,Sterna hirundinacea,Gaviotín sudamericano,South American Tern,,,,CR,MN,,,,,,
-44,CHARADRIIFORMES,LARIDAE,Sterna hirundo,Gaviotín común,Common Tern,,,,,MN,,,,,,
-45,CHARADRIIFORMES,LARIDAE,Sterna trudeaui,Gaviotin de Cabeza Blanca,Snowy-crowned Tern,,,,,MN,,,,,,
-46,CHARADRIIFORMES,LARIDAE,Sternula lorata,Gaviotín peruano,Peruvian Tern,,,,EN,MN,6,,,,,12
-47,CHARADRIIFORMES,LARIDAE,Thalasseus elegans,Gaviotín elegante,Elegant Tern,,,,,MN,11,135,,,,
-48,CHARADRIIFORMES,LARIDAE,Thalasseus maximus,Gaviotín real,Royal Tern,,,,,MN,,,,,,
-49,CHARADRIIFORMES,LARIDAE,Thalasseus sandvicensis,Gaviotín patas negras,Sandwich Tern,,,,,MN,3247,293,,,,
-50,CHARADRIIFORMES,LARIDAE,Chroicocephalus serranus,Gaviota serrana,Andean Gull,,,,,MAN,,7,13,,,
-51,CHARADRIIFORMES,LARIDAE,Chroicocephalus  maculipennis,Gaviota Capucha Café,Brown-hooded Gull,,,,,MS,,,,,,
-52,CHARADRIIFORMES,LARIDAE,Leucophaeus modestus,Gaviota Gris,Gray Gull,,,,,MS,,14,146,35,5,
-53,CHARADRIIFORMES,LARIDAE,Sterna paradisaea,Gaviota del artico,Arctic Tern,,,,,MN,,,,,,
-54,CHARADRIIFORMES,LARIDAE,Larosterna inca,Zarcillo,Inca Tern,,,,VU,ML,,,,,10,
-55,CHARADRIIFORMES,LARIDAE,Larus belcheri,Gaviota Peruana,Belcher’s (Band-tailed) Gull,,,,,R,37,70,4,147,91,38
-56,CHARADRIIFORMES,LARIDAE,Larus dominicanus,Gaviota Dominicana,Kelp Gull,,,,,ML,14,143,2,330,62,107
-57,CHARADRIIFORMES,LARIDAE,Chroicocephalus cirrocephalus,Gaviota Capucha Gris,Gray-hooded Gull,,,,,R,135,668,235,344,191,108
-58,CHARADRIIFORMES,LARIDAE,Phaetusa simplex,Gaviotin picudo,Large-billed Tern,,,,,MAN,,,,,,
-59,CHARADRIIFORMES,RECURVIROSTRIDAE,Himantopus mexicanus (mexicanus/melanurus),Cigüeñuela de Cuello Negro - Perrito,Black-necked Stilt,,,,,MN,26,28,21,11,,67
-60,CHARADRIIFORMES,RECURVIROSTRIDAE,Recurvirostra andina,Avoceta andina,Andean Avocet,,,,,MAN,,,,,,
-61,CHARADRIIFORMES,RHYNCHOPIDAE,Rynchops niger,Rayador,Black Skimmer,,,,,MS,214,354,800,356,76,
-62,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus tricolor,Falaropo de Wilson,Wilson’s Phalarope,,,,,MN,1,,,,7,
-63,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus lobatus,Faláropo picofino,Red-necked Phalarope,,,,,MS,,,,,,
-64,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus fulicarius,Faláropo picogrueso,Red Phalarope,,,,,MS,,,,,,
-65,CHARADRIIFORMES,SCOLOPACIDAE,Actitis macularius,Playero Coleador,Spotted Sandpiper,,,,,R,10,24,28,4,,
-66,CHARADRIIFORMES,SCOLOPACIDAE,Aphriza virgata,Chorlo de las Rompientes,Surfbird,,,,,MN,,,,,,
-67,CHARADRIIFORMES,SCOLOPACIDAE,Arenaria interpres,Vuelvepiedras Rojizo,Ruddy Turnstone,,,,,MN,,7,,,,
-68,CHARADRIIFORMES,SCOLOPACIDAE,Bartramia longicauda,Playero de Batitú,Upland Sandpiper,,,,,MN,,,,,,
-69,CHARADRIIFORMES,SCOLOPACIDAE,Calidris alba,Playero Blanco - Playero Arenero,Sanderling,,,,,MN,,,,,,
-70,CHARADRIIFORMES,SCOLOPACIDAE,Calidris bairdii,Playero de Baird,Baird’s Sandpiper,,,,,MN,,,,,,
-71,CHARADRIIFORMES,SCOLOPACIDAE,Calidris canutus,Playero de Pecho Rufo,Red Knot,,,,,MN,,,,,,
-72,CHARADRIIFORMES,SCOLOPACIDAE,Calidris ferruginea,Playero Zarapito,Curlew Sandpiper,,,,,MN,,,,,,
-73,CHARADRIIFORMES,SCOLOPACIDAE,Calidris himantopus,Playero de Pata Larga,Stilt Sandpiper,,,,,MN,,,7,,,
-74,CHARADRIIFORMES,SCOLOPACIDAE,Calidris mauri,Playerito Occidental,Western Sandpiper,,,,,MN,,,,,,
-75,CHARADRIIFORMES,SCOLOPACIDAE,Calidris melanotos,Playero Pectoral,Pectoral Sandpiper,,,,,MN,,4,,,,
-76,CHARADRIIFORMES,SCOLOPACIDAE,Calidris minutilla,Playerito Menudo,Least Sandpiper,,,,,MN,4,33,6,17,4,
-77,CHARADRIIFORMES,SCOLOPACIDAE,Calidris pusilla,Playerito semipalmado,Semipalmated Sandpiper,,,,,MN,139,10,42,,,
-78,CHARADRIIFORMES,SCOLOPACIDAE,Limnodromus griseus,Becasina Migratoria - Agujeta Pico Corto,Short-billed Dowitcher,,,,,MN,,,,,,
-79,CHARADRIIFORMES,SCOLOPACIDAE,Limosa haemastica,Aguja de mar,Hudsonian Godwit,,,,,MN,,,,,,
-80,CHARADRIIFORMES,SCOLOPACIDAE,Numenius phaeopus,Zarapito Trinador,Whimbrel,,,,,MN,,6,3,,,
-81,CHARADRIIFORMES,SCOLOPACIDAE,Philomachus pugnax,Playero combatiente,Ruff  or Reeve,,,,,MN,,,,,,
-82,CHARADRIIFORMES,SCOLOPACIDAE,Tringa flavipes,Playero Pata Amarilla Menor,Lesser Yellowlegs,,,,,MN,43,50,14,8,2,5
-83,CHARADRIIFORMES,SCOLOPACIDAE,Tringa melanoleuca,Playero Pata Amarilla Mayor,Greater Yellowlegs,,,,,MN,19,109,16,2,4,
-84,CHARADRIIFORMES,SCOLOPACIDAE,Tringa semipalmata,Playero de Ala Blanca,Willet,,,,,MN,,,2,,,
-85,CHARADRIIFORMES,SCOLOPACIDAE,Tringa solitaria,Playero solitario,Solitary Sandpiper,,,,,MN,,,,,,
-86,CHARADRIIFORMES,SCOLOPACIDAE,Limnodromus scolopaceus,Becasina Pico Largo - Agujeta de Pico Largo,Long-billed Dowitcher,,,,,MAN,,,,,,
-87,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius chilensis,Salteador chileno,Chilean Skua,,,,,MS,,,,,,
-88,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius parasiticus,Salteador parásito,Parasitic Jaeger,,,,,MS,,,,,,
-89,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius pomarinus,Salteador pomarino,Pomarine Jaeger,,,,,MS,,,,,,
-90,CHARADRIIFORMES,THINOCORIDAE,Thinocorus rumicivorus,Agachona chica,Least Seedsnipe,,,,,MS,,,,,,
-91,CICONIIFORMES,CICONIIDAE,Mycteria americana,Cigüeña Gabán - Manchaco,Wood Stork,,,,NT,MN,,,,,,
-92,COLUMBIFORMES,COLUMBIDAE,Columbina minuta,Tortolita menuda,Plain-breasted Ground Dove,,,,,R,,,,,,
-93,COLUMBIFORMES,COLUMBIDAE,Metriopelia ceciliae,Tortolita Moteada - Cascabelita común,Bare-faced Ground Dove,,,,,ML,,,,,,
-94,COLUMBIFORMES,COLUMBIDAE,Columba livia,Paloma doméstica	 paloma de castilla,Rock Pigeon,,,,,R,9,70,24,10,6,
-95,COLUMBIFORMES,COLUMBIDAE,Columbina cruziana,Tortolita peruana,Croaking Ground Dove,,,,,R,32,39,46,45,12,34
-96,COLUMBIFORMES,COLUMBIDAE,Zenaida auriculata,Madrugadora o rabiblanca,Eared Dove,,,,,R,4,3,1,2,2,
-97,COLUMBIFORMES,COLUMBIDAE,Zenaida meloda,Paloma Cuculi,West Peruvian Dove,,,,,R,122,69,102,108,55,109
-98,CORACIIFORMES,ALCEDINIDAE,Chloroceryle americana,Martín Pescador Verde,Green Kingfisher,,,,,MAN,,,,,,
-99,CUCULIFORMES,CUCULIDAE,Coccyzus melacoryphus,Cuclillo Pico Oscuro,Dark-billed Cuckoo,,,,,MAN,,,,,,
-100,CUCULIFORMES,CUCULIDAE,Crotophaga sulcirostris,Guardacaballo - Garrapatero de Pico Estriado,Groove-billed Ani,,,,,R,7,21,17,20,17,8
-101,FALCONIFORMES,FALCONIDAE,Falco peregrinus,Halcón Peregrino,Peregrine Falcon,,,,NT,MN,1,3,1,,,
-102,FALCONIFORMES,FALCONIDAE,Caracara plancus,Carancho,Southern Caracara,,,,,MAN,,,,,,
-103,FALCONIFORMES,FALCONIDAE,Falco femoralis,Halcón Aplomado - Halcón Perdiguero,Aplomado Falcon,,,,,MAN,,,,,,
-104,FALCONIFORMES,FALCONIDAE,Milvago chimachima,Cara cara cabeza amarilla,Yellow-headed Caracara,,,,,MAN,3,,,,,
-105,FALCONIFORMES,FALCONIDAE,Falco sparverius,Cernícalo Americano,American Kestrel,,,,,R,4,5,1,3,2,2
-106,GRUIFORMES,RALLIDAE,Porzana carolina,Gallineta sora,Sora,,,,,MN,,,,,,
-107,GRUIFORMES,RALLIDAE,Aramides cajaneus,Unchala - Gallineta de Cuello Gris,Gray-necked Wood-Rail,,,,,MAN,,,,,,
-108,GRUIFORMES,RALLIDAE,Fulica gigantea,Gallareta Gigante - Choca,Giant Coot,,,,NT,MAN,,,,,,
-109,GRUIFORMES,RALLIDAE,Neocrex erythrops,Gallinetita Pico Rojo,Paint-Billed Crake,,,,,MAN,,,,,,
-110,GRUIFORMES,RALLIDAE,Fulica rufifrons,Gallareta Frente Roja,Red-fronted Coot,,,,VU,ML,,,,,6,
-111,GRUIFORMES,RALLIDAE,Porphyrio martinica,Polla sultana - Polla Morada,Purple Gallinule,,,,,ML,,,,4,,
-112,GRUIFORMES,RALLIDAE,Fulica ardesiaca,Gallareta andina	 Hayno,Slate-colored (Andean) Coot,,,,,R,31,48,30,21,12,
-113,GRUIFORMES,RALLIDAE,Gallinula galeata,Polla de Agua,Common Gallinule,,,,,R,77,45,46,50,321,437
-114,GRUIFORMES,RALLIDAE,Laterallus jamaicensis,Gallinetita Negra,Black Rail,,,,,R,,,,,,
-115,GRUIFORMES,RALLIDAE,Pardirallus sanguinolentus,Gallineta común - Rascón Plomizo,Plumbeous Rail,,,,,R,3,2,5,2,4,8
-116,GRUIFORMES,RALLIDAE,Rallus limicola,Gallinetita chica,Virginia (Lesser) Rail,,,,,R,,,,,,
-117,PASSERIFORMES,CARDINALIDAE,Saltador striatipectus,Saltador listado,Streaked Saltator,,,,,ML,,,,,,
-118,PASSERIFORMES,CORVIDAE,Cyanocorax mystacalis,Urraca Cola Blanca,White-tailed Jay,,,,,ML,,,,,,
-119,PASSERIFORMES,EMBERIZIDAE,Zonotrichia capensis,Gorrión americano	 Pichisanka	 Chingolo,Rufous-collared Sparrow,,,,,R,,,,,,
-120,PASSERIFORMES,FRINGILLIDAE,Sporagra magellanica,Jilguero cabeza negra,Hooded Siskin,,,,,R,,,,,,
-121,PASSERIFORMES,FURNARIIDAE,Geositta peruviana,Pampero peruano,Coastal Miner,,,,,ML,,,,,,
-122,PASSERIFORMES,FURNARIIDAE,Phleocryptes melanops,Totorero,Wren-like Rushbird,,,,,R,24,19,20,24,36,35
-123,PASSERIFORMES,HIRUNDINIDAE,Hirundo rustica,Golondrina Migratoria,Barn Swallow,,,,,MN,,100,,,,
-124,PASSERIFORMES,HIRUNDINIDAE,Progne subis,Golondrina Purpureo,Purple Martin,,,,,MN,,,,,,
-125,PASSERIFORMES,HIRUNDINIDAE,Progne elegans,Golondrina Negra,Southern Martin,,,,,MAN,,,,,,
-126,PASSERIFORMES,HIRUNDINIDAE,Progne tapera,Martin Pechipardo,Brown-chested Martin,,,,,MAN,,,,,,
-127,PASSERIFORMES,HIRUNDINIDAE,Riparia riparia,Golondrina ribereña,Bank Swallow,,,,,MAN,,,,,,
-128,PASSERIFORMES,HIRUNDINIDAE,Petrochelidon rufocollaris,Golondrina de cuellicastaño,Chestnut-collared Swallow,,,,,ML,,,,,,
-129,PASSERIFORMES,HIRUNDINIDAE,Pygochelidon cyanoleuca,Santa Rosita,Blue-and-white Swallow,,,,,R,26,91,60,58,121,74
-130,PASSERIFORMES,ICTERIDAE,Dives warszewiczi,Tordo grande - Tordo negro,Scrub Blackbird,,,,,ML,6,1,2,,5,2
-131,PASSERIFORMES,ICTERIDAE,Chrysomus icterocephalus,Tordo amazónico cabeza amarilla,Yellow-hooded Blackbird,,,,,R,16,8,7,1,38,5
-132,PASSERIFORMES,ICTERIDAE,Molothrus bonariensis,Tordo parásito - Tordo brioso,Shiny Cowbird,,,,,R,14,29,7,10,8,4
-133,PASSERIFORMES,ICTERIDAE,Sturnella bellicosa,Huanchaco	 pecho colorado,Peruvian Meadowlark,,,,,R,9,8,3,2,2,
-134,PASSERIFORMES,MIMIDAE,Mimus longicaudatus,Chisco,Long-tailed Mockingbird,,,,,R,,5,3,6,3,
-135,PASSERIFORMES,MOTACILLIDAE,Anthus lutescens,Chichirre	 cachirla amarilla,Yellowish Pipit,,,,,R,,,,,,
-136,PASSERIFORMES,PASSERIDAE,Passer domesticus,Gorrion europeo,,,,,,R,32,33,69,15,12,14
-137,PASSERIFORMES,THRAUPIDAE,Sicalis flaveola,Chirigue azafranado,Saffron Finch,,,,,ML,,,,,,
-138,PASSERIFORMES,THRAUPIDAE,Thraupis palmarum,Violinista verde	 Violinista de Palmer,Palm Tanager,,,,,MAN,,,,,,
-139,PASSERIFORMES,THRAUPIDAE,Coereba flaveola,Mielerito,Bananaquit,,,,,ML,,1,3,,,
-140,PASSERIFORMES,THRAUPIDAE,Sicalis raimondii,Trile bajoandino	 Chirigüe de Raimondi,Raimondi’s Yellow-Finch,,,,,ML,,,,,,
-141,PASSERIFORMES,THRAUPIDAE,Sporophila peruviana,Espiguero pico de loro,Parrot-billed Seedeater,,,,,ML,,,,,,
-142,PASSERIFORMES,THRAUPIDAE,Sporophila simplex,Espiguero simple,Drab Seedeater,,,,,ML,8,1,1,,,
-143,PASSERIFORMES,THRAUPIDAE,Sporophila telasco,Espiguero corbatón,Chestnut-throated Seedeater,,,,,R,1,5,5,1,,
-144,PASSERIFORMES,THRAUPIDAE,Thraupis episcopus,Violinista celeste	 Luisa,Blue-gray Tanager,,,,,ML,,,,,,
-145,PASSERIFORMES,THRAUPIDAE,Conirostrum cinereum,Mielerito gris,Cinereous Conebill,,,,,R,1,,,,,
-146,PASSERIFORMES,THRAUPIDAE,Sicalis luteola,Triguero común,Grassland Yellow-Finch,,,,,R,7,6,,8,9,10
-147,PASSERIFORMES,THRAUPIDAE,Volatinia jacarina,Saltapalito,Blue-black Grassquit,,,,,R,25,7,12,3,,1
-148,PASSERIFORMES,TROGLODYTIDAE,Troglodytes aedon,Cucarachero,House Wren,,,,,R,18,5,14,26,28,20
-149,PASSERIFORMES,TURDIDAE,Turdus chiguanco,Chiguanco	 zorzal,Chiguanco Thrush,,,,,MAN,,,,,,
-150,PASSERIFORMES,TYRANNIDAE,Tyrannus savana,Atrapamosca Cola de Tijera,Fork-tailed Flycatcher,,,,,MN,,,,,,
-151,PASSERIFORMES,TYRANNIDAE,Tyrannus tyrannus,Atrapamoscas Migratorio - Tirano Norteño,Eastern Kingbird,,,,,MN,,,,,,
-152,PASSERIFORMES,TYRANNIDAE,Tyrannus melancholicus,Tirano Tropical o Pepite,Tropical Kingbird,,,,,R,2,3,5,1,4,2
-153,PASSERIFORMES,TYRANNIDAE,Muscigralla brevicauda,Dormilona de Cola Corta,Short-tailed Field Tyrant,,,,,ML,,,,,,
-154,PASSERIFORMES,TYRANNIDAE,Muscisaxicola maclovianus,Dormilona de Cabeza Oscura,Dark-faced Ground-Tyrant,,,,,ML,,,,,,
-155,PASSERIFORMES,TYRANNIDAE,Myiophobus fasciatus,Mosqueta Modesta,Bran-colored Flycatcher,,,,,ML,,,,,,
-156,PASSERIFORMES,TYRANNIDAE,Camptostoma obsoletum,Mosqueta Silvadora,Southern Beardless-Tyrannulet,,,,,R,,,,,,
-157,PASSERIFORMES,TYRANNIDAE,Lessonia oreas,Negrito Andino,Andean Negrito,,,,,R,,,,,,
-158,PASSERIFORMES,TYRANNIDAE,Pyrocephalus rubinus,Turtupillín - Putilla,Vermilion Flycatcher,,,,,R,8,11,14,7,14,9
-159,PASSERIFORMES,TYRANNIDAE,Tachuris rubrigastra,Siete colores de la totora,Many-colored Rush Tyrant,,,,,R,10,14,8,22,22,8
-160,PELECANIFORMES,ARDEIDAE,Egretta tricolor,Garza Pechiblanca	 Garza tricolor,Tricolored Heron,,,,,E,,,,,,
-161,PELECANIFORMES,ARDEIDAE,Nyctanassa violacea,Huaco de Corona Amarillo,Yellow-crowned Night-Heron,,,,,R,7,1,9,12,15,6
-162,PELECANIFORMES,ARDEIDAE,Ardea cocoi,Garza Cuca,Cocoi Heron,,,,,R,,2,1,,,
-163,PELECANIFORMES,ARDEIDAE,Ardea alba,Garza Blanca Grande,Great Egret,,,,,R,32,19,23,19,14,11
-164,PELECANIFORMES,ARDEIDAE,Bubulcus ibis,Garza Bueyera,Cattle Egret,,,,,R,169,182,162,190,492,20
-165,PELECANIFORMES,ARDEIDAE,Egretta caerulea,Garza Azul,Little Blue Heron,,,,,R,13,7,10,13,24,19
-166,PELECANIFORMES,ARDEIDAE,Egretta thula,Garza Blanca Chica,Snowy Egret,,,,,R,77,69,160,57,81,114
-167,PELECANIFORMES,ARDEIDAE,Nycticorax nycticorax,Garza Huaco,Black-Crowned Night-Heron,,,,,R,55,121,42,69,52,54
-168,PELECANIFORMES,ARDEIDAE,Butorides striata,Garza Tamanquita - Garza Estriada,Striated Heron,,,,,R,4,10,16,5,6,11
-169,PELECANIFORMES,ARDEIDAE,Ixobrychus exilis,Garzita Leonada - Mirasol Leonado,Least Bittern,,,,,R,1,2,3,4,1,4
-170,PELECANIFORMES,PELECANIDAE,Pelecanus occidentalis,Pelícano marrón,Brown Pelican,,,,,ML,,,,,,
-171,PELECANIFORMES,PELECANIDAE,Pelecanus thagus,Pelícano peruano,Peruvian Pelican,,,,EN,R,202,156,170,46,56,91
-172,PELECANIFORMES,THRESKIONITHIDAE,Platalea ajaja,Espatula rosada,Roseate Spoonbill,,,,NT,MN,,1,1,1,,
-173,PELECANIFORMES,THRESKIONITHIDAE,Plegadis ridgwayi,Yanavico,Puna Ibis,,,,,R,165,24,247,178,132,387
-174,PHOENICOPTERIFORMES,PHOENICOPTERIDAE,Phoenicopterus chilensis,Parihuana - Flamenco de Chile,Chilean Flamingo,,,,NT,MAN,,,,,,
-175,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps occipitalis,Zambullidor Blanquillo - Z. Plateado,Silvery Grebe,,,,NT,MAN,,,,,,
-176,PODICIPEDIFORMES,PODICIPEDIDAE,Tachybaptus dominicus,Zambullidor Enano -  Z. Menor,Least Grebe,,,,,MAN,1,,3,,,
-177,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps major,Zambullidor Grande - Z. Mayor,Great Grebe,,,,,R,16,12,22,24,15,17
-178,PODICIPEDIFORMES,PODICIPEDIDAE,Podilymbus podiceps,Zambullidor Pico Grueso,Pied-billed Grebe,,,,,R,6,7,7,9,12,7
-179,PODICIPEDIFORMES,PODICIPEDIDAE,Rollandia rolland,Zambullidor pimpollo,White-tufted Grebe,,,,,R,,,,,3,
-180,PROCELLARIIFORMES,DIOMEDEIDAE,Phoebastria  irrorata,Albatros de las Galápagos,Waved Albatross,,,,CR,MN,,,,,,
-181,PROCELLARIIFORMES,DIOMEDEIDAE,Diomedea epomophora,Albatros Real,Royal Albatross,,,,VU,ML,,,,,,
-182,PROCELLARIIFORMES,HYDROBATIDAE,Oceanodroma hornbyi,Paiño Acollarado - Golondrina de Mar con Collar,Ringed (Hornby’s) Storm-Petrel),,,,,MS,,,,,,
-183,PROCELLARIIFORMES,HYDROBATIDAE,Oceanites oceanicus,Paiño de Wilson - Golondrina de las Tormentas,Wilson’s Storm-Petrel,,,,,MS,,,,,,
-184,PROCELLARIIFORMES,HYDROBATIDAE,Oceanodroma markhami,Paiño de Markham - Golondrina de Mar de Markham,Markham’s Storm-Petrel,,,,VU,MS,,,,,,
-185,PROCELLARIIFORMES,PELECANOIDIDAE,Pelecanoides garnotii,Potoyunco Peruano,Peruvian Diving-Petrel,,,,VU,ML,,,,,,
-186,PROCELLARIIFORMES,PROCELLARIIDAE,Pachyptila belcheri,Petrel Azul de Pico Delgado,Slender-billed (Thin-billed) Prion,,,,,MN,,,,,,
-187,PROCELLARIIFORMES,PROCELLARIIDAE,Daption capense,Petrel Damero,Cape Petrel,,,,,MS,,,,,,
-188,PROCELLARIIFORMES,PROCELLARIIDAE,Macronectes giganteus,Petrel Gigante Antártico - Sureño,Southern Giant-Petrel,,,,NT,MS,,,,,,
-189,PROCELLARIIFORMES,PROCELLARIIDAE,Puffinus griseus,Pardela oscura,Sooty Shearwater,,,,,MS,,,,,,
-190,PSITTACIFORMES,PSITTACIDAE,Brotogeris versicolurus,Pihuicho - Perico de Ala Amarilla,Canary-winged Parakeet,,,,,MAN,,,,,,
-191,PSITTACIFORMES,PSITTACIDAE,Aratinga erythrogenys,Cotorra Cabeza Roja,Red-masked Parakeet,,,,NT,ML,,,,,,
-192,PSITTACIFORMES,PSITTACIDAE,Aratinga wagleri,Cotorra de Wagler - Frente Roja,Scarlet-fronted Parakeet,,,,,ML,,,,,,
-193,PSITTACIFORMES,PSITTACIDAE,Forpus coelestis,Perico Esmeralda,Pacific Parrotlet,,,,,ML,,,,,,
-194,SPHENISCIFORMES,SPHENISCIDAE,Spheniscus humboldti,Pingüino de humbolt,Humboldt Penguin,,,,EN,ML,,,,,,
-195,STRIGIFORMES,STRIGIDAE,Athene cunicularia,Lechuza de los arenales,Burrowing Owl,,,,,R,5,6,,,8,3
-196,STRIGIFORMES,TYTONIDAE,Tyto alba,Lechuza de los campanarios,Barn-Owl,,,,,R,,,,,,
-197,SULIFORMES,FREGATIDAE,Fregata magnificens,Avefragata Magnífica,Magnificent Frigatebird,,,,,E,,,,,,
-198,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax boungainvillii,Guanay,Cormorán Guanay,,,,,ML,172,30,29,,334,7
-199,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax brasilianus,Cushuri	 cormorán	 cuervo de mar,Neotropic Cormorant,,,,,R,1258,1352,1062,1860,,
-200,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax gaimardi,Cormorán de Patas Rojas - Chuita,Red-legged Cormorant,,,,EN,ML,,81,,2,,
-201,SULIFORMES,SULIDAE,Sula nebouxii,Camanay,Blue-footed Booby,,,,,MN,,,,,,
-202,SULIFORMES,SULIDAE,Sula variegata,Piquero común,Peruvian Booby,,,,EN,R,,1813,266,750,138,
+1,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo platypterus,Aguilucho de Ala Ancha,Broad-winged Hawk,buteo-platypterus.jpg,640,427,,MAN,,,,,,
+2,ACCIPITRIFORMES,ACCIPITRIDAE,Geranoaetus melanoleucus,Aguilucho Grande - Aguilucho de Pecho Negro,Black-chested Buzzard-Eagle,geranoaetus-melanoleucus.jpg,640,480,,ML,,,,,,
+3,ACCIPITRIFORMES,ACCIPITRIDAE,Geranoaetus polyosoma,Aguilucho comun - Aguilucho Variable,Variable Hawk,geranoaetus-polyosoma.jpg,640,441,,ML,,,,,,
+4,ACCIPITRIFORMES,ACCIPITRIDAE,Buteogallus meridionalis,Gavilán de campo - Gavilán Sabanero,Savanna Hawk,buteogallus-meridionalis.jpg,640,426,,ML,,,,,,
+5,ACCIPITRIFORMES,ACCIPITRIDAE,Circus cinereus,Gavilán Cenizo,Cinereous Harrier,circus-cinereus.jpg,640,426,,ML,,,,,,
+6,ACCIPITRIFORMES,ACCIPITRIDAE,Parabuteo unicinctus,Gavilán Oscuro Acanalado,Harris’s (Bay-winged) Hawk,parabuteo-unicinctus.jpg,640,480,,R,6,3,3,5,3,5
+7,ACCIPITRIFORMES,PANDIONIDAE,Pandion haliaetus,Águila Pescadora,Osprey,pandion-haliaetus.jpg,600,410,,R,5,,1,,,1
+8,ANSERIFORMES,ANATIDAE,Anas discors,Pato media luna - Pato de Ala Azul,Blue-winged Teal,anas-discors.jpg,710,443,,MN,,2,,,,
+9,ANSERIFORMES,ANATIDAE,Anas platyrhynchos,Pato Cabeza Verde,Common Mallar,anas-platyrhynchos.jpg,760,493,,MN,,,,,,
+10,ANSERIFORMES,ANATIDAE,Anas flavirostris,Pato  Sutro - Pato Barcino,Yellow-billed (Speckled) Teal,anas-flavirostris.jpg,648,486,,MAN,,,,,,
+11,ANSERIFORMES,ANATIDAE,Anas georgica,Pato Jerga	 Pisacca,Yellow-billed Pintail,anas-georgica.jpg,600,533,,MAN,,,,,,
+12,ANSERIFORMES,ANATIDAE,Anas puna,Pato puna,Puna Teal,anas-puna.jpg,640,411,,MAN,,,,,,
+13,ANSERIFORMES,ANATIDAE,Chloephaga melanoptera,Huachua	 Huallata,Andean Goose,chloephaga-melanoptera.jpg,800,532,,MAN,,,,,,
+14,ANSERIFORMES,ANATIDAE,Dendrocygna autumnalis,Pato-silbón de Vientre Negro,Black-bellied Whistling-Duck,dendrocygna-autumnalis.jpg,612,446,,E,,,,,,
+15,ANSERIFORMES,ANATIDAE,Lophonetta specularioides,Pato cordillerano - Pato Crestón,Crested Duck,lophonetta-specularioides.jpg,800,534,,MAN,,,,,,
+16,ANSERIFORMES,ANATIDAE,Sarkidiornis melanotos,Pato arrocero - Pato Crestudo,Comb Duck,sarkidiornis-melanotos.jpg,800,600,,ML,,,,,,
+17,ANSERIFORMES,ANATIDAE,Anas bahamensis,Pato Gargantillo,White-cheeked Pintail,anas-bahamensis.jpg,800,542,,R,61,87,36,19,20,41
+18,ANSERIFORMES,ANATIDAE,Anas cyanoptera,Pato colorado,Cinnamon Teal,anas-cyanoptera.jpg,751,496,,R,39,71,189,53,94,104
+19,ANSERIFORMES,ANATIDAE,Oxyura jamaicensis,Pato rana- Pato Taclón,Ruddy Duck,oxyura-jamaicensis.jpg,800,560,,R,18,18,27,15,25,19
+20,APODIFORMES,APODIDAE,Chaetura pelagica,Vencejo de chimenea,Chimney Swift,chaetura-pelagica.jpg,500,422,,MN,,,,,,
+21,APODIFORMES,APODIDAE,Aeronautes andecolus,Vencejo andino,Andean Swift,aeronautes-andecolus.jpg,640,413,,MAN,,,,,,
+22,APODIFORMES,APODIDAE,Streptoprocne zonaris,Vencejo collar blanco,White-collared Swift,streptoprocne-zonaris.jpg,800,600,,ML,,,,,,
+23,APODIFORMES,TROCHILIDAE,Rhodopis vesper,Amazilia costeña,Oasis Hummingbird,rhodopis-vesper.jpg,800,572,,ML,,,,,,
+24,APODIFORMES,TROCHILIDAE,Amazilia amazilia,Amazilia costeña,Amazilia Hummingbird,amazilia-amazilia.jpg,580,386,,R,,2,2,4,1,
+25,APODIFORMES,TROCHILIDAE,Myrtis fanny,Picaflor de fany,Purple-collared Woodstar,myrtis-fanny.jpg,777,560,,R,,,,,,
+26,APODIFORMES,TROCHILIDAE,Thaumastura cora,Picaflor de cora,Peruvian Sheartail,thaumastura-cora.jpg,726,501,,R,,,,,,
+27,CAPRIMULGIFORMES,CAPRIMULGIDAE,Chordeiles acutipennis,Chotacabras trinador,Lesser Nighthawk,chordeiles-acutipennis.jpg,504,360,,R,,,,,,
+28,CATHARTIFORMES,CATHARTIDAE,Cathartes aura,Gallinazo Cabeza Roja,Turkey Vulture,cathartes-aura.jpg,500,333,,R,,,,50,54,
+29,CATHARTIFORMES,CATHARTIDAE,Coragyps atratus,Gallinazo Cabeza Negra,Black Vulture,coragyps-atratus.jpg,600,396,,R,329,327,445,367,162,18
+30,CHARADRIIFORMES,BURHINIDAE,Burhinus superciliaris,Huerequeque,Peruvian Thick-knee,burhinus-superciliaris.jpg,700,466,,R,,3,,,,
+31,CHARADRIIFORMES,CHARADRIIDAE,Charadrius nivosus,Chorlo Nevado,Snowy Plover,charadrius-nivosus.jpg,640,480,,MN,,,,,,
+32,CHARADRIIFORMES,CHARADRIIDAE,Charadrius semipalmatus,Chorlo semipalmado,Semipalmated Plover,charadrius-semipalmatus.jpg,480,343,,MN,21,82,5,20,39,1
+33,CHARADRIIFORMES,CHARADRIIDAE,Pluvialis squatarola,Chorlo ártico,Black-bellied Plover,pluvialis-squatarola.jpg,611,492,,MN,,,,,,
+34,CHARADRIIFORMES,CHARADRIIDAE,Vanellus cayanus,Avefría pinta,Pied Lapwing,vanellus-cayanus.jpg,600,400,,MN,,,,,,
+35,CHARADRIIFORMES,CHARADRIIDAE,Pluvialis dominica,Chorlo Dorado Americano,American Golden-Plover,pluvialis-dominica.jpg,600,400,,MAN,,,,,1,
+36,CHARADRIIFORMES,CHARADRIIDAE,Charadrius vociferus,Chorlo Doble Collar,Killdeer,charadrius-vociferus.jpg,900,600,,R,9,22,5,45,71,69
+37,CHARADRIIFORMES,HAEMATOPODIDAE,Haematopus ater,Ostrero negro,Blackish Oystercatcher,haematopus-ater.jpg,700,467,,MS,,,,,,
+38,CHARADRIIFORMES,HAEMATOPODIDAE,Haematopus palliatus,Ostrero común,American Oystercatcher,haematopus-palliatus.jpg,800,533,,MS,27,17,72,44,60,20
+39,CHARADRIIFORMES,LARIDAE,Chlidonias niger,Gaviotín negro,Black Tern,chlidonias-niger.jpg,600,417,,MN,,,,,,
+40,CHARADRIIFORMES,LARIDAE,Gelochelidon nilotica,Gaviotín Picogrueso,Gull-billed Tern,gelochelidon-nilotica.jpg,700,467,,MN,,,,,,
+41,CHARADRIIFORMES,LARIDAE,Leucophaeus atricilla,Gaviota Centroamericana - G. Reidora,Laughing Gull,leucophaeus-atricilla.jpg,600,400,,MN,,,,,,
+42,CHARADRIIFORMES,LARIDAE,Leucophaeus pipixcan,Gaviota de Franklin,Franklin’s Gull,leucophaeus-pipixcan.jpg,562,400,,MN,21574,10706,6200,531,12,
+43,CHARADRIIFORMES,LARIDAE,Sterna hirundinacea,Gaviotín sudamericano,South American Tern,sterna-hirundinacea.jpg,550,385,CR,MN,,,,,,
+44,CHARADRIIFORMES,LARIDAE,Sterna hirundo,Gaviotín común,Common Tern,sterna-hirundo.jpg,700,472,,MN,,,,,,
+45,CHARADRIIFORMES,LARIDAE,Sterna trudeaui,Gaviotin de Cabeza Blanca,Snowy-crowned Tern,sterna-trudeaui.jpg,600,453,,MN,,,,,,
+46,CHARADRIIFORMES,LARIDAE,Sternula lorata,Gaviotín peruano,Peruvian Tern,sternula-lorata.jpg,600,435,EN,MN,6,,,,,12
+47,CHARADRIIFORMES,LARIDAE,Thalasseus elegans,Gaviotín elegante,Elegant Tern,thalasseus-elegans.jpg,630,390,,MN,11,135,,,,
+48,CHARADRIIFORMES,LARIDAE,Thalasseus maximus,Gaviotín real,Royal Tern,thalasseus-maximus.jpg,720,540,,MN,,,,,,
+49,CHARADRIIFORMES,LARIDAE,Thalasseus sandvicensis,Gaviotín patas negras,Sandwich Tern,thalasseus-sandvicensis.jpg,632,395,,MN,3247,293,,,,
+50,CHARADRIIFORMES,LARIDAE,Chroicocephalus serranus,Gaviota serrana,Andean Gull,chroicocephalus-serranus.jpg,640,427,,MAN,,7,13,,,
+51,CHARADRIIFORMES,LARIDAE,Chroicocephalus  maculipennis,Gaviota Capucha Café,Brown-hooded Gull,chroicocephalus--maculipennis.jpg,500,342,,MS,,,,,,
+52,CHARADRIIFORMES,LARIDAE,Leucophaeus modestus,Gaviota Gris,Gray Gull,leucophaeus-modestus.jpg,800,504,,MS,,14,146,35,5,
+53,CHARADRIIFORMES,LARIDAE,Sterna paradisaea,Gaviota del artico,Arctic Tern,sterna-paradisaea.jpg,600,419,,MN,,,,,,
+54,CHARADRIIFORMES,LARIDAE,Larosterna inca,Zarcillo,Inca Tern,larosterna-inca.jpg,610,407,VU,ML,,,,,10,
+55,CHARADRIIFORMES,LARIDAE,Larus belcheri,Gaviota Peruana,Belcher’s (Band-tailed) Gull,larus-belcheri.jpg,700,466,,R,37,70,4,147,91,38
+56,CHARADRIIFORMES,LARIDAE,Larus dominicanus,Gaviota Dominicana,Kelp Gull,larus-dominicanus.jpg,600,406,,ML,14,143,2,330,62,107
+57,CHARADRIIFORMES,LARIDAE,Chroicocephalus cirrocephalus,Gaviota Capucha Gris,Gray-hooded Gull,chroicocephalus-cirrocephalus.jpg,600,440,,R,135,668,235,344,191,108
+58,CHARADRIIFORMES,LARIDAE,Phaetusa simplex,Gaviotin picudo,Large-billed Tern,phaetusa-simplex.jpg,500,398,,MAN,,,,,,
+59,CHARADRIIFORMES,RECURVIROSTRIDAE,Himantopus mexicanus (mexicanus/melanurus),Cigüeñuela de Cuello Negro - Perrito,Black-necked Stilt,himantopus-mexicanus.jpg,552,480,,MN,26,28,21,11,,67
+60,CHARADRIIFORMES,RECURVIROSTRIDAE,Recurvirostra andina,Avoceta andina,Andean Avocet,recurvirostra-andina.jpg,,,,MAN,,,,,,
+61,CHARADRIIFORMES,RHYNCHOPIDAE,Rynchops niger,Rayador,Black Skimmer,rynchops-niger.jpg,,,,MS,214,354,800,356,76,
+62,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus tricolor,Falaropo de Wilson,Wilson’s Phalarope,phalaropus-tricolor.jpg,,,,MN,1,,,,7,
+63,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus lobatus,Faláropo picofino,Red-necked Phalarope,phalaropus-lobatus.jpg,,,,MS,,,,,,
+64,CHARADRIIFORMES,SCOLOPACIDAE,Phalaropus fulicarius,Faláropo picogrueso,Red Phalarope,phalaropus-fulicarius.jpg,,,,MS,,,,,,
+65,CHARADRIIFORMES,SCOLOPACIDAE,Actitis macularius,Playero Coleador,Spotted Sandpiper,actitis-macularius.jpg,,,,R,10,24,28,4,,
+66,CHARADRIIFORMES,SCOLOPACIDAE,Aphriza virgata,Chorlo de las Rompientes,Surfbird,aphriza-virgata.jpg,,,,MN,,,,,,
+67,CHARADRIIFORMES,SCOLOPACIDAE,Arenaria interpres,Vuelvepiedras Rojizo,Ruddy Turnstone,arenaria-interpres.jpg,,,,MN,,7,,,,
+68,CHARADRIIFORMES,SCOLOPACIDAE,Bartramia longicauda,Playero de Batitú,Upland Sandpiper,bartramia-longicauda.jpg,,,,MN,,,,,,
+69,CHARADRIIFORMES,SCOLOPACIDAE,Calidris alba,Playero Blanco - Playero Arenero,Sanderling,calidris-alba.jpg,,,,MN,,,,,,
+70,CHARADRIIFORMES,SCOLOPACIDAE,Calidris bairdii,Playero de Baird,Baird’s Sandpiper,calidris-bairdii.jpg,,,,MN,,,,,,
+71,CHARADRIIFORMES,SCOLOPACIDAE,Calidris canutus,Playero de Pecho Rufo,Red Knot,calidris-canutus.jpg,,,,MN,,,,,,
+72,CHARADRIIFORMES,SCOLOPACIDAE,Calidris ferruginea,Playero Zarapito,Curlew Sandpiper,calidris-ferruginea.jpg,,,,MN,,,,,,
+73,CHARADRIIFORMES,SCOLOPACIDAE,Calidris himantopus,Playero de Pata Larga,Stilt Sandpiper,calidris-himantopus.jpg,,,,MN,,,7,,,
+74,CHARADRIIFORMES,SCOLOPACIDAE,Calidris mauri,Playerito Occidental,Western Sandpiper,calidris-mauri.jpg,,,,MN,,,,,,
+75,CHARADRIIFORMES,SCOLOPACIDAE,Calidris melanotos,Playero Pectoral,Pectoral Sandpiper,calidris-melanotos.jpg,,,,MN,,4,,,,
+76,CHARADRIIFORMES,SCOLOPACIDAE,Calidris minutilla,Playerito Menudo,Least Sandpiper,calidris-minutilla.jpg,,,,MN,4,33,6,17,4,
+77,CHARADRIIFORMES,SCOLOPACIDAE,Calidris pusilla,Playerito semipalmado,Semipalmated Sandpiper,calidris-pusilla.jpg,,,,MN,139,10,42,,,
+78,CHARADRIIFORMES,SCOLOPACIDAE,Limnodromus griseus,Becasina Migratoria - Agujeta Pico Corto,Short-billed Dowitcher,limnodromus-griseus.jpg,,,,MN,,,,,,
+79,CHARADRIIFORMES,SCOLOPACIDAE,Limosa haemastica,Aguja de mar,Hudsonian Godwit,limosa-haemastica.jpg,,,,MN,,,,,,
+80,CHARADRIIFORMES,SCOLOPACIDAE,Numenius phaeopus,Zarapito Trinador,Whimbrel,numenius-phaeopus.jpg,,,,MN,,6,3,,,
+81,CHARADRIIFORMES,SCOLOPACIDAE,Philomachus pugnax,Playero combatiente,Ruff  or Reeve,philomachus-pugnax.jpg,,,,MN,,,,,,
+82,CHARADRIIFORMES,SCOLOPACIDAE,Tringa flavipes,Playero Pata Amarilla Menor,Lesser Yellowlegs,tringa-flavipes.jpg,,,,MN,43,50,14,8,2,5
+83,CHARADRIIFORMES,SCOLOPACIDAE,Tringa melanoleuca,Playero Pata Amarilla Mayor,Greater Yellowlegs,tringa-melanoleuca.jpg,,,,MN,19,109,16,2,4,
+84,CHARADRIIFORMES,SCOLOPACIDAE,Tringa semipalmata,Playero de Ala Blanca,Willet,tringa-semipalmata.jpg,,,,MN,,,2,,,
+85,CHARADRIIFORMES,SCOLOPACIDAE,Tringa solitaria,Playero solitario,Solitary Sandpiper,tringa-solitaria.jpg,,,,MN,,,,,,
+86,CHARADRIIFORMES,SCOLOPACIDAE,Limnodromus scolopaceus,Becasina Pico Largo - Agujeta de Pico Largo,Long-billed Dowitcher,limnodromus-scolopaceus.jpg,,,,MAN,,,,,,
+87,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius chilensis,Salteador chileno,Chilean Skua,stercorarius-chilensis.jpg,,,,MS,,,,,,
+88,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius parasiticus,Salteador parásito,Parasitic Jaeger,stercorarius-parasiticus.jpg,,,,MS,,,,,,
+89,CHARADRIIFORMES,STERCORAIIDAE,Stercorarius pomarinus,Salteador pomarino,Pomarine Jaeger,stercorarius-pomarinus.jpg,,,,MS,,,,,,
+90,CHARADRIIFORMES,THINOCORIDAE,Thinocorus rumicivorus,Agachona chica,Least Seedsnipe,thinocorus-rumicivorus.jpg,,,,MS,,,,,,
+91,CICONIIFORMES,CICONIIDAE,Mycteria americana,Cigüeña Gabán - Manchaco,Wood Stork,mycteria-americana.jpg,,,NT,MN,,,,,,
+92,COLUMBIFORMES,COLUMBIDAE,Columbina minuta,Tortolita menuda,Plain-breasted Ground Dove,columbina-minuta.jpg,,,,R,,,,,,
+93,COLUMBIFORMES,COLUMBIDAE,Metriopelia ceciliae,Tortolita Moteada - Cascabelita común,Bare-faced Ground Dove,metriopelia-ceciliae.jpg,,,,ML,,,,,,
+94,COLUMBIFORMES,COLUMBIDAE,Columba livia,Paloma doméstica	 paloma de castilla,Rock Pigeon,columba-livia.jpg,,,,R,9,70,24,10,6,
+95,COLUMBIFORMES,COLUMBIDAE,Columbina cruziana,Tortolita peruana,Croaking Ground Dove,columbina-cruziana.jpg,,,,R,32,39,46,45,12,34
+96,COLUMBIFORMES,COLUMBIDAE,Zenaida auriculata,Madrugadora o rabiblanca,Eared Dove,zenaida-auriculata.jpg,,,,R,4,3,1,2,2,
+97,COLUMBIFORMES,COLUMBIDAE,Zenaida meloda,Paloma Cuculi,West Peruvian Dove,zenaida-meloda.jpg,,,,R,122,69,102,108,55,109
+98,CORACIIFORMES,ALCEDINIDAE,Chloroceryle americana,Martín Pescador Verde,Green Kingfisher,chloroceryle-americana.jpg,,,,MAN,,,,,,
+99,CUCULIFORMES,CUCULIDAE,Coccyzus melacoryphus,Cuclillo Pico Oscuro,Dark-billed Cuckoo,coccyzus-melacoryphus.jpg,,,,MAN,,,,,,
+100,CUCULIFORMES,CUCULIDAE,Crotophaga sulcirostris,Guardacaballo - Garrapatero de Pico Estriado,Groove-billed Ani,crotophaga-sulcirostris.jpg,,,,R,7,21,17,20,17,8
+101,FALCONIFORMES,FALCONIDAE,Falco peregrinus,Halcón Peregrino,Peregrine Falcon,falco-peregrinus.jpg,,,NT,MN,1,3,1,,,
+102,FALCONIFORMES,FALCONIDAE,Caracara plancus,Carancho,Southern Caracara,caracara-plancus.jpg,,,,MAN,,,,,,
+103,FALCONIFORMES,FALCONIDAE,Falco femoralis,Halcón Aplomado - Halcón Perdiguero,Aplomado Falcon,falco-femoralis.jpg,,,,MAN,,,,,,
+104,FALCONIFORMES,FALCONIDAE,Milvago chimachima,Cara cara cabeza amarilla,Yellow-headed Caracara,milvago-chimachima.jpg,,,,MAN,3,,,,,
+105,FALCONIFORMES,FALCONIDAE,Falco sparverius,Cernícalo Americano,American Kestrel,falco-sparverius.jpg,,,,R,4,5,1,3,2,2
+106,GRUIFORMES,RALLIDAE,Porzana carolina,Gallineta sora,Sora,porzana-carolina.jpg,,,,MN,,,,,,
+107,GRUIFORMES,RALLIDAE,Aramides cajaneus,Unchala - Gallineta de Cuello Gris,Gray-necked Wood-Rail,aramides-cajaneus.jpg,,,,MAN,,,,,,
+108,GRUIFORMES,RALLIDAE,Fulica gigantea,Gallareta Gigante - Choca,Giant Coot,fulica-gigantea.jpg,,,NT,MAN,,,,,,
+109,GRUIFORMES,RALLIDAE,Neocrex erythrops,Gallinetita Pico Rojo,Paint-Billed Crake,neocrex-erythrops.jpg,,,,MAN,,,,,,
+110,GRUIFORMES,RALLIDAE,Fulica rufifrons,Gallareta Frente Roja,Red-fronted Coot,fulica-rufifrons.jpg,,,VU,ML,,,,,6,
+111,GRUIFORMES,RALLIDAE,Porphyrio martinica,Polla sultana - Polla Morada,Purple Gallinule,porphyrio-martinica.jpg,,,,ML,,,,4,,
+112,GRUIFORMES,RALLIDAE,Fulica ardesiaca,Gallareta andina	 Hayno,Slate-colored (Andean) Coot,fulica-ardesiaca.jpg,,,,R,31,48,30,21,12,
+113,GRUIFORMES,RALLIDAE,Gallinula galeata,Polla de Agua,Common Gallinule,gallinula-galeata.jpg,,,,R,77,45,46,50,321,437
+114,GRUIFORMES,RALLIDAE,Laterallus jamaicensis,Gallinetita Negra,Black Rail,laterallus-jamaicensis.jpg,,,,R,,,,,,
+115,GRUIFORMES,RALLIDAE,Pardirallus sanguinolentus,Gallineta común - Rascón Plomizo,Plumbeous Rail,pardirallus-sanguinolentus.jpg,,,,R,3,2,5,2,4,8
+116,GRUIFORMES,RALLIDAE,Rallus limicola,Gallinetita chica,Virginia (Lesser) Rail,rallus-limicola.jpg,,,,R,,,,,,
+117,PASSERIFORMES,CARDINALIDAE,Saltador striatipectus,Saltador listado,Streaked Saltator,saltador-striatipectus.jpg,,,,ML,,,,,,
+118,PASSERIFORMES,CORVIDAE,Cyanocorax mystacalis,Urraca Cola Blanca,White-tailed Jay,cyanocorax-mystacalis.jpg,,,,ML,,,,,,
+119,PASSERIFORMES,EMBERIZIDAE,Zonotrichia capensis,Gorrión americano	 Pichisanka	 Chingolo,Rufous-collared Sparrow,zonotrichia-capensis.jpg,,,,R,,,,,,
+120,PASSERIFORMES,FRINGILLIDAE,Sporagra magellanica,Jilguero cabeza negra,Hooded Siskin,sporagra-magellanica.jpg,,,,R,,,,,,
+121,PASSERIFORMES,FURNARIIDAE,Geositta peruviana,Pampero peruano,Coastal Miner,geositta-peruviana.jpg,,,,ML,,,,,,
+122,PASSERIFORMES,FURNARIIDAE,Phleocryptes melanops,Totorero,Wren-like Rushbird,phleocryptes-melanops.jpg,,,,R,24,19,20,24,36,35
+123,PASSERIFORMES,HIRUNDINIDAE,Hirundo rustica,Golondrina Migratoria,Barn Swallow,hirundo-rustica.jpg,,,,MN,,100,,,,
+124,PASSERIFORMES,HIRUNDINIDAE,Progne subis,Golondrina Purpureo,Purple Martin,progne-subis.jpg,,,,MN,,,,,,
+125,PASSERIFORMES,HIRUNDINIDAE,Progne elegans,Golondrina Negra,Southern Martin,progne-elegans.jpg,,,,MAN,,,,,,
+126,PASSERIFORMES,HIRUNDINIDAE,Progne tapera,Martin Pechipardo,Brown-chested Martin,progne-tapera.jpg,,,,MAN,,,,,,
+127,PASSERIFORMES,HIRUNDINIDAE,Riparia riparia,Golondrina ribereña,Bank Swallow,riparia-riparia.jpg,,,,MAN,,,,,,
+128,PASSERIFORMES,HIRUNDINIDAE,Petrochelidon rufocollaris,Golondrina de cuellicastaño,Chestnut-collared Swallow,petrochelidon-rufocollaris.jpg,,,,ML,,,,,,
+129,PASSERIFORMES,HIRUNDINIDAE,Pygochelidon cyanoleuca,Santa Rosita,Blue-and-white Swallow,pygochelidon-cyanoleuca.jpg,,,,R,26,91,60,58,121,74
+130,PASSERIFORMES,ICTERIDAE,Dives warszewiczi,Tordo grande - Tordo negro,Scrub Blackbird,dives-warszewiczi.jpg,,,,ML,6,1,2,,5,2
+131,PASSERIFORMES,ICTERIDAE,Chrysomus icterocephalus,Tordo amazónico cabeza amarilla,Yellow-hooded Blackbird,chrysomus-icterocephalus.jpg,,,,R,16,8,7,1,38,5
+132,PASSERIFORMES,ICTERIDAE,Molothrus bonariensis,Tordo parásito - Tordo brioso,Shiny Cowbird,molothrus-bonariensis.jpg,,,,R,14,29,7,10,8,4
+133,PASSERIFORMES,ICTERIDAE,Sturnella bellicosa,Huanchaco	 pecho colorado,Peruvian Meadowlark,sturnella-bellicosa.jpg,,,,R,9,8,3,2,2,
+134,PASSERIFORMES,MIMIDAE,Mimus longicaudatus,Chisco,Long-tailed Mockingbird,mimus-longicaudatus.jpg,,,,R,,5,3,6,3,
+135,PASSERIFORMES,MOTACILLIDAE,Anthus lutescens,Chichirre	 cachirla amarilla,Yellowish Pipit,anthus-lutescens.jpg,,,,R,,,,,,
+136,PASSERIFORMES,PASSERIDAE,Passer domesticus,Gorrion europeo,,passer-domesticus.jpg,,,,R,32,33,69,15,12,14
+137,PASSERIFORMES,THRAUPIDAE,Sicalis flaveola,Chirigue azafranado,Saffron Finch,sicalis-flaveola.jpg,,,,ML,,,,,,
+138,PASSERIFORMES,THRAUPIDAE,Thraupis palmarum,Violinista verde	 Violinista de Palmer,Palm Tanager,thraupis-palmarum.jpg,,,,MAN,,,,,,
+139,PASSERIFORMES,THRAUPIDAE,Coereba flaveola,Mielerito,Bananaquit,coereba-flaveola.jpg,,,,ML,,1,3,,,
+140,PASSERIFORMES,THRAUPIDAE,Sicalis raimondii,Trile bajoandino	 Chirigüe de Raimondi,Raimondi’s Yellow-Finch,sicalis-raimondii.jpg,,,,ML,,,,,,
+141,PASSERIFORMES,THRAUPIDAE,Sporophila peruviana,Espiguero pico de loro,Parrot-billed Seedeater,sporophila-peruviana.jpg,,,,ML,,,,,,
+142,PASSERIFORMES,THRAUPIDAE,Sporophila simplex,Espiguero simple,Drab Seedeater,sporophila-simplex.jpg,,,,ML,8,1,1,,,
+143,PASSERIFORMES,THRAUPIDAE,Sporophila telasco,Espiguero corbatón,Chestnut-throated Seedeater,sporophila-telasco.jpg,,,,R,1,5,5,1,,
+144,PASSERIFORMES,THRAUPIDAE,Thraupis episcopus,Violinista celeste	 Luisa,Blue-gray Tanager,thraupis-episcopus.jpg,,,,ML,,,,,,
+145,PASSERIFORMES,THRAUPIDAE,Conirostrum cinereum,Mielerito gris,Cinereous Conebill,conirostrum-cinereum.jpg,,,,R,1,,,,,
+146,PASSERIFORMES,THRAUPIDAE,Sicalis luteola,Triguero común,Grassland Yellow-Finch,sicalis-luteola.jpg,,,,R,7,6,,8,9,10
+147,PASSERIFORMES,THRAUPIDAE,Volatinia jacarina,Saltapalito,Blue-black Grassquit,volatinia-jacarina.jpg,,,,R,25,7,12,3,,1
+148,PASSERIFORMES,TROGLODYTIDAE,Troglodytes aedon,Cucarachero,House Wren,troglodytes-aedon.jpg,,,,R,18,5,14,26,28,20
+149,PASSERIFORMES,TURDIDAE,Turdus chiguanco,Chiguanco	 zorzal,Chiguanco Thrush,turdus-chiguanco.jpg,,,,MAN,,,,,,
+150,PASSERIFORMES,TYRANNIDAE,Tyrannus savana,Atrapamosca Cola de Tijera,Fork-tailed Flycatcher,tyrannus-savana.jpg,,,,MN,,,,,,
+151,PASSERIFORMES,TYRANNIDAE,Tyrannus tyrannus,Atrapamoscas Migratorio - Tirano Norteño,Eastern Kingbird,tyrannus-tyrannus.jpg,,,,MN,,,,,,
+152,PASSERIFORMES,TYRANNIDAE,Tyrannus melancholicus,Tirano Tropical o Pepite,Tropical Kingbird,tyrannus-melancholicus.jpg,,,,R,2,3,5,1,4,2
+153,PASSERIFORMES,TYRANNIDAE,Muscigralla brevicauda,Dormilona de Cola Corta,Short-tailed Field Tyrant,muscigralla-brevicauda.jpg,,,,ML,,,,,,
+154,PASSERIFORMES,TYRANNIDAE,Muscisaxicola maclovianus,Dormilona de Cabeza Oscura,Dark-faced Ground-Tyrant,muscisaxicola-maclovianus.jpg,,,,ML,,,,,,
+155,PASSERIFORMES,TYRANNIDAE,Myiophobus fasciatus,Mosqueta Modesta,Bran-colored Flycatcher,myiophobus-fasciatus.jpg,,,,ML,,,,,,
+156,PASSERIFORMES,TYRANNIDAE,Camptostoma obsoletum,Mosqueta Silvadora,Southern Beardless-Tyrannulet,camptostoma-obsoletum.jpg,,,,R,,,,,,
+157,PASSERIFORMES,TYRANNIDAE,Lessonia oreas,Negrito Andino,Andean Negrito,lessonia-oreas.jpg,,,,R,,,,,,
+158,PASSERIFORMES,TYRANNIDAE,Pyrocephalus rubinus,Turtupillín - Putilla,Vermilion Flycatcher,pyrocephalus-rubinus.jpg,,,,R,8,11,14,7,14,9
+159,PASSERIFORMES,TYRANNIDAE,Tachuris rubrigastra,Siete colores de la totora,Many-colored Rush Tyrant,tachuris-rubrigastra.jpg,,,,R,10,14,8,22,22,8
+160,PELECANIFORMES,ARDEIDAE,Egretta tricolor,Garza Pechiblanca	 Garza tricolor,Tricolored Heron,egretta-tricolor.jpg,,,,E,,,,,,
+161,PELECANIFORMES,ARDEIDAE,Nyctanassa violacea,Huaco de Corona Amarillo,Yellow-crowned Night-Heron,nyctanassa-violacea.jpg,,,,R,7,1,9,12,15,6
+162,PELECANIFORMES,ARDEIDAE,Ardea cocoi,Garza Cuca,Cocoi Heron,ardea-cocoi.jpg,,,,R,,2,1,,,
+163,PELECANIFORMES,ARDEIDAE,Ardea alba,Garza Blanca Grande,Great Egret,ardea-alba.jpg,,,,R,32,19,23,19,14,11
+164,PELECANIFORMES,ARDEIDAE,Bubulcus ibis,Garza Bueyera,Cattle Egret,bubulcus-ibis.jpg,,,,R,169,182,162,190,492,20
+165,PELECANIFORMES,ARDEIDAE,Egretta caerulea,Garza Azul,Little Blue Heron,egretta-caerulea.jpg,,,,R,13,7,10,13,24,19
+166,PELECANIFORMES,ARDEIDAE,Egretta thula,Garza Blanca Chica,Snowy Egret,egretta-thula.jpg,,,,R,77,69,160,57,81,114
+167,PELECANIFORMES,ARDEIDAE,Nycticorax nycticorax,Garza Huaco,Black-Crowned Night-Heron,nycticorax-nycticorax.jpg,,,,R,55,121,42,69,52,54
+168,PELECANIFORMES,ARDEIDAE,Butorides striata,Garza Tamanquita - Garza Estriada,Striated Heron,butorides-striata.jpg,,,,R,4,10,16,5,6,11
+169,PELECANIFORMES,ARDEIDAE,Ixobrychus exilis,Garzita Leonada - Mirasol Leonado,Least Bittern,ixobrychus-exilis.jpg,,,,R,1,2,3,4,1,4
+170,PELECANIFORMES,PELECANIDAE,Pelecanus occidentalis,Pelícano marrón,Brown Pelican,pelecanus-occidentalis.jpg,,,,ML,,,,,,
+171,PELECANIFORMES,PELECANIDAE,Pelecanus thagus,Pelícano peruano,Peruvian Pelican,pelecanus-thagus.jpg,,,EN,R,202,156,170,46,56,91
+172,PELECANIFORMES,THRESKIONITHIDAE,Platalea ajaja,Espatula rosada,Roseate Spoonbill,platalea-ajaja.jpg,,,NT,MN,,1,1,1,,
+173,PELECANIFORMES,THRESKIONITHIDAE,Plegadis ridgwayi,Yanavico,Puna Ibis,plegadis-ridgwayi.jpg,,,,R,165,24,247,178,132,387
+174,PHOENICOPTERIFORMES,PHOENICOPTERIDAE,Phoenicopterus chilensis,Parihuana - Flamenco de Chile,Chilean Flamingo,phoenicopterus-chilensis.jpg,,,NT,MAN,,,,,,
+175,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps occipitalis,Zambullidor Blanquillo - Z. Plateado,Silvery Grebe,podiceps-occipitalis.jpg,,,NT,MAN,,,,,,
+176,PODICIPEDIFORMES,PODICIPEDIDAE,Tachybaptus dominicus,Zambullidor Enano -  Z. Menor,Least Grebe,tachybaptus-dominicus.jpg,,,,MAN,1,,3,,,
+177,PODICIPEDIFORMES,PODICIPEDIDAE,Podiceps major,Zambullidor Grande - Z. Mayor,Great Grebe,podiceps-major.jpg,,,,R,16,12,22,24,15,17
+178,PODICIPEDIFORMES,PODICIPEDIDAE,Podilymbus podiceps,Zambullidor Pico Grueso,Pied-billed Grebe,podilymbus-podiceps.jpg,,,,R,6,7,7,9,12,7
+179,PODICIPEDIFORMES,PODICIPEDIDAE,Rollandia rolland,Zambullidor pimpollo,White-tufted Grebe,rollandia-rolland.jpg,,,,R,,,,,3,
+180,PROCELLARIIFORMES,DIOMEDEIDAE,Phoebastria  irrorata,Albatros de las Galápagos,Waved Albatross,phoebastria--irrorata.jpg,,,CR,MN,,,,,,
+181,PROCELLARIIFORMES,DIOMEDEIDAE,Diomedea epomophora,Albatros Real,Royal Albatross,diomedea-epomophora.jpg,,,VU,ML,,,,,,
+182,PROCELLARIIFORMES,HYDROBATIDAE,Oceanodroma hornbyi,Paiño Acollarado - Golondrina de Mar con Collar,Ringed (Hornby’s) Storm-Petrel),oceanodroma-hornbyi.jpg,,,,MS,,,,,,
+183,PROCELLARIIFORMES,HYDROBATIDAE,Oceanites oceanicus,Paiño de Wilson - Golondrina de las Tormentas,Wilson’s Storm-Petrel,oceanites-oceanicus.jpg,,,,MS,,,,,,
+184,PROCELLARIIFORMES,HYDROBATIDAE,Oceanodroma markhami,Paiño de Markham - Golondrina de Mar de Markham,Markham’s Storm-Petrel,oceanodroma-markhami.jpg,,,VU,MS,,,,,,
+185,PROCELLARIIFORMES,PELECANOIDIDAE,Pelecanoides garnotii,Potoyunco Peruano,Peruvian Diving-Petrel,pelecanoides-garnotii.jpg,,,VU,ML,,,,,,
+186,PROCELLARIIFORMES,PROCELLARIIDAE,Pachyptila belcheri,Petrel Azul de Pico Delgado,Slender-billed (Thin-billed) Prion,pachyptila-belcheri.jpg,,,,MN,,,,,,
+187,PROCELLARIIFORMES,PROCELLARIIDAE,Daption capense,Petrel Damero,Cape Petrel,daption-capense.jpg,,,,MS,,,,,,
+188,PROCELLARIIFORMES,PROCELLARIIDAE,Macronectes giganteus,Petrel Gigante Antártico - Sureño,Southern Giant-Petrel,macronectes-giganteus.jpg,,,NT,MS,,,,,,
+189,PROCELLARIIFORMES,PROCELLARIIDAE,Puffinus griseus,Pardela oscura,Sooty Shearwater,puffinus-griseus.jpg,,,,MS,,,,,,
+190,PSITTACIFORMES,PSITTACIDAE,Brotogeris versicolurus,Pihuicho - Perico de Ala Amarilla,Canary-winged Parakeet,brotogeris-versicolurus.jpg,,,,MAN,,,,,,
+191,PSITTACIFORMES,PSITTACIDAE,Aratinga erythrogenys,Cotorra Cabeza Roja,Red-masked Parakeet,aratinga-erythrogenys.jpg,,,NT,ML,,,,,,
+192,PSITTACIFORMES,PSITTACIDAE,Aratinga wagleri,Cotorra de Wagler - Frente Roja,Scarlet-fronted Parakeet,aratinga-wagleri.jpg,,,,ML,,,,,,
+193,PSITTACIFORMES,PSITTACIDAE,Forpus coelestis,Perico Esmeralda,Pacific Parrotlet,forpus-coelestis.jpg,,,,ML,,,,,,
+194,SPHENISCIFORMES,SPHENISCIDAE,Spheniscus humboldti,Pingüino de humbolt,Humboldt Penguin,spheniscus-humboldti.jpg,,,EN,ML,,,,,,
+195,STRIGIFORMES,STRIGIDAE,Athene cunicularia,Lechuza de los arenales,Burrowing Owl,athene-cunicularia.jpg,,,,R,5,6,,,8,3
+196,STRIGIFORMES,TYTONIDAE,Tyto alba,Lechuza de los campanarios,Barn-Owl,tyto-alba.jpg,,,,R,,,,,,
+197,SULIFORMES,FREGATIDAE,Fregata magnificens,Avefragata Magnífica,Magnificent Frigatebird,fregata-magnificens.jpg,,,,E,,,,,,
+198,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax boungainvillii,Guanay,Cormorán Guanay,phalacrocorax-boungainvillii.jpg,,,,ML,172,30,29,,334,7
+199,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax brasilianus,Cushuri	 cormorán	 cuervo de mar,Neotropic Cormorant,phalacrocorax-brasilianus.jpg,,,,R,1258,1352,1062,1860,,
+200,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax gaimardi,Cormorán de Patas Rojas - Chuita,Red-legged Cormorant,phalacrocorax-gaimardi.jpg,,,EN,ML,,81,,2,,
+201,SULIFORMES,SULIDAE,Sula nebouxii,Camanay,Blue-footed Booby,sula-nebouxii.jpg,,,,MN,,,,,,
+202,SULIFORMES,SULIDAE,Sula variegata,Piquero común,Peruvian Booby,sula-variegata.jpg,,,EN,R,,1813,266,750,138,
 ,TOTAL  INDIVIDUOS,,,,,,,,,,28678,17842,11063,6095,5708,3499
 ,N° DE ESPECIES,,,,,,,,,,67,235,70,61,63,51
