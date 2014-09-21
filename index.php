@@ -9,6 +9,13 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <meta property="og:og:app_id" content="323924044446462"/>
+    <meta property="og:og:title" content="Jugando descubri a esta ave Tambien descubre tu ave!"/>
+    <meta property="og:og:type" content="website"/>
+    <meta property="og:og:url" content="http://avelima.lalotech.com/"/>
+    <meta property="og:description" content="Juega y descubre todas las AVES de Lima en y rankeate con los mejores descubridores del Mundo! Juntos descubriremos nuestras AVES de LIMA." />
+
+    
     <title>AVELIMA - Las Aves de Pantano de Villa</title>
 
     <!-- Bootstrap Core CSS -->
