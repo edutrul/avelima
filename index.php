@@ -529,7 +529,7 @@ HTML;
     <script src="agency/js/agency.js"></script>
 
     <!-- Cookie JS -->
-    <script type="text/javascript" src="js/jquery.cookie.js"></script>
+    <!--<script type="text/javascript" src="js/jquery.cookie.js"></script>-->
     
     <!-- Puzzle Javascript -->
     <script type="text/javascript" src="js/puzzle.js"></script>

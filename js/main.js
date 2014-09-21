@@ -2,11 +2,11 @@ $(function () {
     var MAX_ROW = 20, MAX_COL = 20;
     
 
-    if ($.cookie('avelima_level') == undefined) {
-      $.cookie('avelima_level', 0);
+    if (localStorage.getItem('avelima_level') == undefined) {
+      localStorage.setItem('avelima_level', 0);
     }
     else {
-      lvl = $.cookie('avelima_level');
+      lvl = localStorage.getItem('avelima_level');
       console.log('hola');
       console.log(lvl);
       for (i = 0; i < lvl; i++) {
@@ -14,7 +14,7 @@ $(function () {
         $('a[href="#portfolioModal' + i + '"] img').removeClass('img-black-white');
       }
     }
-    dom_image = $('a[href="#portfolioModal' + $.cookie('avelima_level') + '"] img');
+    dom_image = $('a[href="#portfolioModal' + localStorage.getItem('avelima_level') + '"] img');
     current_image = dom_image.attr('src');
     console.log(dom_image);
     console.log(dom_image.data('width'));
@@ -77,10 +77,10 @@ console.log(game);
         img_path = img_path.replace(patron_b, '');
         console.log(img_path);
         //~ $('img[src="' + img_path + '"]').removeClass('img-black-white');
-        lvl = parseInt($.cookie('avelima_level'));
+        lvl = parseInt(localStorage.getItem('avelima_level'));
         new_lvl = lvl + 1;
         $('a[href="#portfolioModal' + lvl + '"] img').removeClass('img-black-white');
-        $.cookie('avelima_level', new_lvl);
+        localStorage.setItem('avelima_level', new_lvl);
 
         dom_image = $('a[href="#portfolioModal' + new_lvl + '"] img');
         $('#puzzle').width(dom_image.data('width')).height(dom_image.data('height'));
